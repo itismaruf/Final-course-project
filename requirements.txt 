@@ -104,4 +104,5 @@ statsmodels
 jupyterlab
 notebook
 statsmodels
+libgl1-mesa-glx
 Note: you may need to restart the kernel to use updated packages.
