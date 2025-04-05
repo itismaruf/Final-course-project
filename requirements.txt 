@@ -103,4 +103,5 @@ duckdb
 statsmodels
 jupyterlab
 notebook
+statsmodels
 Note: you may need to restart the kernel to use updated packages.
