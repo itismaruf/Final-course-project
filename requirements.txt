@@ -96,11 +96,3 @@ tzdata==2024.1
 urllib3==2.2.3
 wcwidth==0.2.13
 webencodings==0.5.1
-streamlit
-plotly
-pandas
-duckdb
-statsmodels
-jupyterlab
-notebook
-Note: you may need to restart the kernel to use updated packages.
