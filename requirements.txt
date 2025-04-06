@@ -36,6 +36,16 @@ streamlit==1.44.1
 tenacity==9.1.2
 toml==0.10.2
 tornado==6.4.2
+<<<<<<< HEAD:requirements.txt 
 typing_extensions==4.13.1
 tzdata==2025.2
 urllib3==2.3.0
+=======
+tqdm==4.67.1
+traitlets==5.14.3
+typing_extensions==4.12.2
+tzdata==2024.1
+urllib3==2.2.3
+wcwidth==0.2.13
+webencodings==0.5.1
+>>>>>>> 1172f0508798326f3b637de87b7328c36d3f8b3e:requirements.txt
