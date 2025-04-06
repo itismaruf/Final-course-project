@@ -48,4 +48,3 @@ tzdata==2024.1
 urllib3==2.2.3
 wcwidth==0.2.13
 webencodings==0.5.1
->>>>>>> 1172f0508798326f3b637de87b7328c36d3f8b3e:requirements.txt
